@@ -59,7 +59,14 @@ PlayStation security community:
 
 - **[TheFlow (Andy Nguyen)](https://github.com/TheOfficialFloW):** For the discovery of the [`ExploitNetControlImpl`](https://gist.github.com/TheOfficialFloW/7174351201b5260d7780780f4059bebf) vulnerability and the original BD-J sandbox escape research.
 - **[Gezine](https://github.com/Gezine) & [egycnq](https://github.com/egycnq):** For the original [`poops_ps5.lua`](https://github.com/Gezine/Luac0re/blob/main/payloads/poops_ps5.lua) script and the core implementation of the exploitation chain.
-- **[Jamie jaigaresc](https://github.com/jaigaresc):** For [`Poops-PS5-Java`](https://github.com/jaigaresc/Poops-PS5-Java), a Java implementation of Poops based on the work by Gezine and egycnq.
+- **[Jamie](https://github.com/jaigaresc):** For [`Poops-PS5-Java`](https://github.com/jaigaresc/Poops-PS5-Java), a Java implementation of Poops based on the work by Gezine and egycnq.
 - **[SpecterDev (Cryptogenic)](https://github.com/Cryptogenic), [ChendoChap](https://github.com/ChendoChap), [John Törnblom](https://github.com/john-tornblom), and the [ps5-payload-dev](https://github.com/ps5-payload-dev) contributors:** For foundational work on PS5 ELF loading, memory mapping, and the overall payload ecosystem.
 
 - **Testers:** Sonic-Iso, [DrYenyen](https://github.com/DrYenyen), and a special thanks to [owendswang](https://github.com/owendswang). This would not have been possible without you.
+
+
+## Support ☕
+
+If you found this project helpful and want to support my work, consider buying me a coffee or what ever you want!
+
+[Ko-fi](https://ko-fi.com/masszero80428)
