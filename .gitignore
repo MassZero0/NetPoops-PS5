@@ -1,24 +1,24 @@
-# Compiled class file
+# Build outputs
+bin/
+build/
+classes/
+dist-autoloader-test/
+discdir/
+META-INF/
 *.class
 
-# Log file
+# Logs and runtime leftovers
 *.log
+hs_err_pid*
+replay_pid*
+*~
 
-# BlueJ files
-*.ctxt
-
-# Mobile Tools for Java (J2ME)
-.mtj.tmp/
-
-# Package Files #
+# Archives and generated payloads
 *.jar
-*.war
-*.nar
-*.ear
 *.zip
 *.tar.gz
 *.rar
+*.iso
 
-# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
-hs_err_pid*
-replay_pid*
+# Python cache
+__pycache__/
